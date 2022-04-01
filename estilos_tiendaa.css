@@ -1,0 +1,91 @@
+body {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.color-nav{
+    background-color: #062f58;
+}
+
+.TituloPagina {
+    color: rgb(223, 219, 219);
+    text-align: unset;
+}
+
+.wrap {
+    max-width: 1100px;
+    width: 90%;
+    margin: auto;
+    background: chocolate;
+}
+
+.SportDevotion-navBar {
+    margin-left: 650px;
+}
+
+.Estilo_Productos {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+.Estilo_Producto {
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+.buttons-navBar {
+    margin-right: 15px;
+    
+}
+
+.sport-container {
+ 
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.footer-row {
+    margin-top: 40px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #062f58;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+
+.Tamanio_Fotos {
+    height: 80px;
+}
+
+.espacio_botones {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.tamanio_img {
+    height: 400px;
+    width: 421px;
+}
+
+.Tamaño_Fotos {
+    height: 600px;
+    width: 423px;
+}
+
+.mover_boton {
+    margin-bottom: 10px;
+}
+
+.boton_centrado {
+    margin-left: 800px;
+}
